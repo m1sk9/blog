@@ -18,7 +18,7 @@ const blogSettings: BlogSettings = {
     },
     {
       title: 'Twitter',
-      url: 'https://twitter.com/m1sk9',
+      url: 'https://twitter.com/m1s2r8',
     },
   ],
 };
