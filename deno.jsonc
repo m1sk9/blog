@@ -19,7 +19,9 @@
     "singleQuote": true,
     "proseWrap": "always",
     "include": [
-      "main.ts",
+      "main.ts"
+    ],
+    "exclude": [
       "posts/*.md"
     ]
   },
