@@ -1,6 +1,6 @@
 ---
-pubDatetime: 2024-10-26 11:49:00
 title: 旧 Minecraft Wiki はもう使うな
+pubDatetime: 2024-10-26T11:49:00+09:00
 featured: true
 tags:
   - minecraft
